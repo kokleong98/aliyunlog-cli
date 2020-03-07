@@ -1,2 +1,2 @@
 # aliyunlog-cli
-Aliyun log service automation using command line interface (CLI).
+Aliyun log service automation using command line interface (CLI) fo Windows.
