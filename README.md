@@ -1,5 +1,5 @@
 # aliyunlog-cli
-Aliyun log service automation using command line interface (CLI) fo Windows.
+Aliyun log service automation using command line interface (CLI) for Windows.
 
 # Get started
 - [Installation guide](https://github.com/kokleong98/aliyunlog-cli/blob/master/docs/install.md)
