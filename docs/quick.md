@@ -4,10 +4,12 @@ Quick Start
 ![](https://raw.githubusercontent.com/kokleong98/aliyunlog-cli/master/docs/menu-cli.png)
 
 2. Click on Aliyunlog CLI app icon to launch the CLI.
+![](https://raw.githubusercontent.com/kokleong98/aliyunlog-cli/master/docs/cli.png)
 
 3. Configure your Aliyunlog CLI with your access key and access id. 
+![](https://raw.githubusercontent.com/kokleong98/aliyunlog-cli/master/docs/sample-command.png)
 
-4. Run aliyunlog log command to download log service data.
+4. Run aliyunlog log command to download log service data as show as above.
 
 # Related resources
 [How to generate access key](https://raw.githubusercontent.com/kokleong98/aliyunlog-cli/master/docs/access.md)
