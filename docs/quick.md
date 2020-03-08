@@ -12,4 +12,4 @@ Quick Start
 4. Run aliyunlog log command to download log service data as show as above.
 
 # Related resources
-[How to generate access key](https://raw.githubusercontent.com/kokleong98/aliyunlog-cli/master/docs/access.md)
+[How to generate access key](https://github.com/kokleong98/aliyunlog-cli/blob/master/docs/access.md)
