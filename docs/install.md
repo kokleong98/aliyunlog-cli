@@ -1,4 +1,4 @@
-![Aliyunlog CLI](https://raw.githubusercontent.com/kokleong98/aliyunlog-cli/master/docs/menu-cli.png)
+![Aliyunlog CLI](https://raw.githubusercontent.com/kokleong98/aliyunlog-cli/master/docs/cli.png)
 
 # Aliyunlog CLI
 Installation Steps
