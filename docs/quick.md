@@ -1,7 +1,7 @@
 # Aliyunlog CLI
 Quick Start
 1. Click Windows Start button and search for Aliyunlog CLI.
-[![](https://raw.githubusercontent.com/kokleong98/aliyunlog-cli/master/docs/menu-cli.png)]
+![](https://raw.githubusercontent.com/kokleong98/aliyunlog-cli/master/docs/menu-cli.png)
 
 2. Click on Aliyunlog CLI app icon to launch the CLI.
 
