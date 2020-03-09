@@ -11,6 +11,10 @@ Quick Start
 
 4. Run aliyunlog log command to download log service data as show as above.
 
+# Command Specification
+1. aliyunlog log <subcommand> [parameters | global options]
+2. aliyunlog configure <access_id> <access-key> <endpoint>
+3. aliyunlog [--help | --version]
 
 # Related resources
 [Aliyunlog Command Reference](https://aliyun-log-cli.readthedocs.io/en/latest/README.html#command-reference)
