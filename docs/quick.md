@@ -18,9 +18,13 @@ Quick Start
 
 # Command Global options
 \[--access-id=\<value\>\]
+
 \[--access-key=\<value\>\]
+
 \[--region-endpoint=\<value\>\]
+
 \[--client-name=\<value\>\]
+
 \[--jmes-filter=\<value\>\]
 
 # Related resources
